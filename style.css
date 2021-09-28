@@ -1447,7 +1447,7 @@ ul {
 }
 
 .section-tree-title a {
-  color: $text-color;
+  color: $text_color;
 }
 
 .section-tree .see-all-articles {
