@@ -1441,10 +1441,13 @@ ul {
   margin-bottom: 0;
   font-size: 18px;
   font-weight: 600;
+  padding: 15px;
+  border: solid 2px #41B8E9;
+  border-radius:15px;
 }
 
 .section-tree-title a {
-  color: $text_color;
+  color: $text-color;
 }
 
 .section-tree .see-all-articles {
